@@ -19,7 +19,7 @@
         app:srcCompat="@drawable/singapore" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/buttonchina"
         android:layout_width="100dp"
         android:layout_height="50dp"
         android:layout_marginStart="248dp"
@@ -73,7 +73,7 @@
         app:srcCompat="@drawable/china" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonjapan"
         android:layout_width="100dp"
         android:layout_height="50dp"
         android:layout_marginStart="60dp"
@@ -85,7 +85,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/buttonkorea"
         android:layout_width="100dp"
         android:layout_height="50dp"
         android:layout_marginStart="64dp"
@@ -97,7 +97,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/buttonsingapore"
         android:layout_width="100dp"
         android:layout_height="50dp"
         android:layout_marginStart="155dp"
@@ -109,7 +109,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/buttonthailand"
         android:layout_width="100dp"
         android:layout_height="50dp"
         android:layout_marginStart="248dp"
